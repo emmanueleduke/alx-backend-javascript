@@ -1,0 +1,25 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node 8-main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/emmanueleduke/alx-backend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmanueleduke/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/emmanueleduke/alx-backend-javascript#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
